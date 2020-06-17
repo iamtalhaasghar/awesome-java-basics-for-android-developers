@@ -5,7 +5,7 @@
 <li>
 <a href="https://cutt.ly/learn_java_timeline">Course Timeline </a>
  </li>
- <a href="https://cutt.ly/redirect_github_to_learn_java_in_70_days">Youtube Playlist
+ <a href="https://cutt.ly/redirect_github_to_learn_java_in_70_days">Youtube Playlist</a>
 <li>
  </ul>
 <ol>
