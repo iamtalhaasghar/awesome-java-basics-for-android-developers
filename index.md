@@ -1,4 +1,4 @@
-# Learning Java in 70 Days
+# Learning Java in 70 Days (Last Updated: 17th June, 2020)
 <ul>
 <li>
 <a href="https://cutt.ly/learn_java_course_outline">Download Course Contents</a></li>
