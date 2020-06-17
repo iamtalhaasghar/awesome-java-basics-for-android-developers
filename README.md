@@ -2,8 +2,7 @@
 <ul>
  <li>
 <a href="https://cutt.ly/learn_java_in_70_days_repo">70 Days Complete Topics List</a></li>
-<li>
- <li>
+</li>
 <a href="https://cutt.ly/learn_java_course_outline">Course Contents</a></li>
 <li>
 <a href="https://cutt.ly/learn_java_timeline">Course Timeline </a>
