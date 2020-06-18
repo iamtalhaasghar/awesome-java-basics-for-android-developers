@@ -1,5 +1,5 @@
 # Learning Java in 70 Days
-(Last Updated: 17th June, 2020)
+(Last Updated: 18th June, 2020)
 <ul>
 <li>
 <a href="https://cutt.ly/learn_java_course_outline">Download Course Contents</a></li>
@@ -12,5 +12,5 @@
  </ul>
 <ol>
  <li><a href="https://cutt.ly/learn_java_day_01">Day 1. Introduction to Series</a></li>
- <li><a href="https://cutt.ly/learn_java_day_01">Upcoming:<em> Hello Word in Java (Setting up Environment) + Why use environment Variables</em></a></li>
+ <li><a href="https://youtu.be/JPoRiD8Bga8">Upcoming:<em> Hello Word in Java (Setting up Environment) + Why use environment Variables</em></a></li>
 </ol>
