@@ -12,5 +12,5 @@
  </ul>
 <ol>
  <li><a href="https://cutt.ly/learn_java_day_01">Day 1. Introduction to Series</a></li>
- <li><a href="https://youtu.be/JPoRiD8Bga8">Upcoming:<em> Hello Word in Java (Setting up Environment) + Why use environment Variables</em></a></li>
+ <li><a href="https://youtu.be/JPoRiD8Bga8">Day 2. Hello Word in Java (Setting up Environment) + Why use environment Variables</a></li>
 </ol>
