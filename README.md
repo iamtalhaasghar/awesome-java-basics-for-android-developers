@@ -1,5 +1,6 @@
 # Learning Java in 70 Days for Android Development
 Weekly plan for those who want to Learn Java in 70 Days and then want to start Android Development.
+
 # Prerequisites
 1. Programming Fundamentals (in Any Language)
 
@@ -12,7 +13,7 @@ Weekly plan for those who want to Learn Java in 70 Days and then want to start A
   4. More about Data Types + Compilation vs Interpretation + Bytecodes
   5. In Depth details of Java Program Structure + Main Method &amp; Its importance + Finding and Removing Errors (Debugging)
   6. Some good programming practices and Java Conventions
-  7. Tech Talk: Which tools or IDE's should I use? Comparison of all famous Java IDE`s
+  7. Tech Talk: Which tools or IDE's should I use? Comparison of all famous Java IDE's
 ## Week 02: Java Control Structures
   1. What is meant by Program Control? + Dry Run + Getting Input from User + if + if else
   2. Intro to Operators &amp; Operators in Java + java. util. Math
@@ -71,3 +72,6 @@ Weekly plan for those who want to Learn Java in 70 Days and then want to start A
   7. Mini Project
 ## Week 09: Introduction to Mobile App Development
 ## Week 10: Deep Dive: Android Development
+
+# Bonus
+Use [this](https://github.com/iamtalhaasghar/awesome-java-basics-for-android-developers/blob/master/TimeTracking.csv) .csv file to track down your weekly progress easily so that you can stay focused and motivated.
